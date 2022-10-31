@@ -18,11 +18,7 @@ function techList(tecName, n4me) {
 }
 
 // Desafio 11
-function testIntervalo(key, numeroTel) {
-  if (numeroTel[key] < 0 || numeroTel[key] > 9) {
-    return false;
-  }
-}
+const testIntervalo = (key, numeroTel) => ((numeroTel[key] > 0 || numeroTel[key] < 9) === true);
 
 function compara(key, repeti, numeroTel) {
   if (numeroTel[key] === numeroTel[repeti]) {
@@ -57,7 +53,7 @@ function testNumValido(numeroTel) {
 function generatePhoneNumber(T) {
   // seu código aqui
   if (T.length === 11) {
-    if (testNumValido(T) === true) {
+    if (testNumValido(T)) {
       return `(${T[0]}${T[1]}) ${T[2]}${T[3]}${T[4]}${T[5]}${T[6]}-${T[7]}${T[8]}${T[9]}${T[10]}`;
     }
     return 'não é possível gerar um número de telefone com esses valores';
