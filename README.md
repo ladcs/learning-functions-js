@@ -46,7 +46,15 @@ This is my first program in JavaScript, In this project I learning how use opera
   Recebe um array, pega o último elemento e concatena com o primeiro, retorno '[ultimo elemento], [primeiro elemento]'.
 </details>
 
+<details>
+  <summary><strong>:sunglasses: footballPoints </strong> </summary> <br />
+  receve wins and ties for a team then return points of this team, the points is 3*wins + ties.
+</details>
 
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: footballPoints </strong></summary>
+  Recebe vitórias e empate de um time e retorna os pontos do time, os pontos são 3*vitoria + empates.
+</details>
 
 # :construction: README em construção ! :construction:
 
