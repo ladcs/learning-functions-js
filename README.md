@@ -120,12 +120,22 @@ This is my first program in JavaScript, In this project I learning how use opera
 
 <details>
   <summary><strong>:sunglasses: generatePhoneNumber </strong> </summary> <br />
-  Receve a Array with 11 numbers, if in this array are tree or more equals numbers or one number is less then 0 or more then 9 return 'não é possível gerar um número de telefone com esses valores', if aren't 11 numbers in this array the return is 'Array com tamanho incorreto.', if the 11 numbers is correct return (array[0]array[1]) array[2]array[3]array[4]array[5]array[6]-array[7]array[8]array[9]array[10]array[11].
+  Receve a Array with 11 numbers, if in this array are three or more equals numbers or one number is less then 0 or more then 9 return 'não é possível gerar um número de telefone com esses valores', if aren't 11 numbers in this array the return is 'Array com tamanho incorreto.', if the 11 numbers is correct return (array[0]array[1]) array[2]array[3]array[4]array[5]array[6]-array[7]array[8]array[9]array[10]array[11].
 </details>
 
 <details>
   <summary><strong>🤷🏽‍♀️:sunglasses: Português: generatePhoneNumber </strong></summary>
   Recebe um array com 11 números, se no array tem três ou mais números iguais ou um número menor que zero ou maior que 9 retorna 'não é possível gerar um número de telefone com esses valores', se não tiver 11 números retorna 'Array com tamanho incorreto.', se tiver 11 números corretos retorna (array[0]array[1]) array[2]array[3]array[4]array[5]array[6]-array[7]array[8]array[9]array[10]array[11].
+</details>
+
+<details>
+  <summary><strong>:sunglasses: triangleCheck </strong> </summary> <br />
+  Receve three number, this numbers represent lines, sum of two lines need be more then other line and the absolut subtraction of 2 lines needs to be more then other line. In this case return true, in other case return false.
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: triangleCheck </strong></summary>
+  Recebe três números, esses números representam linhas, a soma de duas linhas precisam ser maior que a outra linha e a subtração absoluta de 2 linhas precisam ser maior que a outra linha. Nesse caso retorna true, em outro caso retorna false.
 </details>
 
 # :construction: README em construção ! :construction:
