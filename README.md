@@ -138,6 +138,16 @@ This is my first program in JavaScript, In this project I learning how use opera
   Recebe três números, esses números representam linhas, a soma de duas linhas precisam ser maior que a outra linha e a subtração absoluta de 2 linhas precisam ser maior que a outra linha. Nesse caso retorna true, em outro caso retorna false.
 </details>
 
+<details>
+  <summary><strong>:sunglasses: hydrate </strong> </summary> <br />
+  Receve a string, this string have numbers and drinks, for n drinks return n glasses of water, if is 1 drink the return is '1 copo de água' or if 3 beers, 1 wine return '4 copos de água'.
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: hydrate </strong></summary>
+  Recebe uma string, essa string tem números e bebidas, para n bebidas retorna n copos de água, exemplo 1 cerveja return '1 copo de água' ou se for '3 cervejas, 1 vinho' retorna '4 copos de água'.
+</details>
+
 # :construction: README em construção ! :construction:
 
 <!-- Olá, Tryber!
