@@ -8,8 +8,8 @@ This is my first program in JavaScript, In this project I learning how use opera
 </details>
 
 <details>
-  <summary><strong>:sunglasses: compareTrue</strong></sumary>
-  This function return a boolean, this boolean depends two other booleans, if both is true then return true, if any is false, return false, used operator &&.
+  <summary><strong>:sunglasses: compareTrue</strong></sumary><br />
+    This function return a boolean, this boolean depends two other booleans, if both is true then return true, if any is false, return false, used operator &&.
   </details>
 
   <details>
