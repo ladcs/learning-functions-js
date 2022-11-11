@@ -17,6 +17,15 @@ This is my first program in JavaScript, In this project I learning how use opera
     Essa função retorna um boleano, esse boleano depende de outros dois booleanos, se ambos forem verdadeiro, o retorno será verdadeiro, caso qualquer um seja falso o retorno será falso, foi usado o operador &&.
 </details>
 
+<details>
+  <summary><strong>:sunglasses: calcArea </strong></summary><br />
+  Return triangle area, depends two params base and heigth.
+</details>
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: calcArea</strong></summary>
+  Retorna a área do triangulo, depende de dois parametros, base e altura.
+</details>
+
 # :construction: README em construção ! :construction:
 
 <!-- Olá, Tryber!
