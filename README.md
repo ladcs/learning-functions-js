@@ -56,6 +56,26 @@ This is my first program in JavaScript, In this project I learning how use opera
   Recebe vitórias e empate de um time e retorna os pontos do time, os pontos são 3*vitoria + empates.
 </details>
 
+<details>
+  <summary><strong>:sunglasses: highestCount </strong> </summary> <br />
+  Receve a Array, return the number of high number appers in this array, used function max, today I do with HoF filter.
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: highestCount </strong></summary>
+  Recebe um array, retorna a quantidade de vezes que o maior número aparece nesse array, usando a função max, hoje eu iria fazer com HoF filter.
+</details>
+
+<details>
+  <summary><strong>:sunglasses: catAndMouse </strong> </summary> <br />
+  Receve three numbers, first is the position of mouse, second is the position of first cat and the last is the position of other cat, if the mouse is more near of first cat the return is cat1, if is near the second cat the return is cat2 and if the distance of two cats is the same the return is 'os gatos trombam e o rato foge'.
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: catAndMouse </strong></summary>
+  Recebe três parametros, o primeiro é a posição do rato, o segundo é a posição do primeiro gato e o ultimo é a posição do segundo gato, se o rato estivar mais perto do primeiro gato o retorno é 'cat1', se o rato estiver mais perto do segundo gato o retorno é 'cat2' e caso o rato estiver entre os dois gatos o retorno é 'os gatos trombam e o rato foge'.
+</details>
+
 # :construction: README em construção ! :construction:
 
 <!-- Olá, Tryber!
