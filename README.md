@@ -36,6 +36,18 @@ This is my first program in JavaScript, In this project I learning how use opera
   Recebe uma string, separa quando achar um espaço e armazena em um array. Usando a HoF split.
 </details>
 
+<details>
+  <summary><strong>:sunglasses: concatName </strong> </summary> <br />
+  Receve a Array, get the last element then concat with the first element, return '[last element], [first element]'.
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: concatName </strong></summary>
+  Recebe um array, pega o último elemento e concatena com o primeiro, retorno '[ultimo elemento], [primeiro elemento]'.
+</details>
+
+
+
 # :construction: README em construção ! :construction:
 
 <!-- Olá, Tryber!
