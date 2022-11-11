@@ -9,11 +9,11 @@ This is my first program in JavaScript, In this project I learning how use opera
 
 <details>
   <summary><strong>:sunglasses: compareTrue</strong></sumary><br />
-    This function return a boolean, this boolean depends two other booleans, if both is true then return true, if any is false, return false, used operator &&.
-  </details>
+  This function return a boolean, this boolean depends two other booleans, if both is true then return true, if any is false, return false, used operator &&.
+</details>
 
   <details>
-  <summary><strong>:sunglasses: Português: compareTrue </strong></summary><br />
+  <summary><strong>🤷🏽‍♀️ :sunglasses: Português: compareTrue </strong></summary><br />
     Essa função retorna um boleano, esse boleano depende de outros dois booleanos, se ambos forem verdadeiro, o retorno será verdadeiro, caso qualquer um seja falso o retorno será falso, foi usado o operador &&.
 </details>
 
