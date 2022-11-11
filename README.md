@@ -76,6 +76,18 @@ This is my first program in JavaScript, In this project I learning how use opera
   Recebe três parametros, o primeiro é a posição do rato, o segundo é a posição do primeiro gato e o ultimo é a posição do segundo gato, se o rato estivar mais perto do primeiro gato o retorno é 'cat1', se o rato estiver mais perto do segundo gato o retorno é 'cat2' e caso o rato estiver entre os dois gatos o retorno é 'os gatos trombam e o rato foge'.
 </details>
 
+<details>
+  <summary><strong>:sunglasses: fizzBuzz </strong> </summary> <br />
+  Receve a Array, if the number is multiple of 3 return 'fizz', if the number is multiple of 5 return 'buzz', if the number is multiple 3 and 5 return 'fizzBuzz' and if is not multiple 3 or 5 return 'bug!' for all numbers in array.
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: fizzBuzz </strong></summary>
+  Recebe um array, se o numero for múltiplo de 3 retorna 'fizz', se for múltiplo de 5 retorna 'buzz', se for múltiplo de 3 e de 5 retorna 'fizzBuzz' caso não seja múltiplo de 3 ou de 5 returna 'bug!' para todos os números no array.
+</details>
+
+
+
 # :construction: README em construção ! :construction:
 
 <!-- Olá, Tryber!
