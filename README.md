@@ -94,7 +94,7 @@ This is my first program in JavaScript, In this project I learning how use opera
   e <-> 2 \
   i <-> 3 \
   o <-> 4 \
-  u <-> 5 \
+  u <-> 5
 </details>
 
 <details>
@@ -105,7 +105,17 @@ This is my first program in JavaScript, In this project I learning how use opera
   e <-> 2 \
   i <-> 3 \
   o <-> 4 \
-  u <-> 5 \
+  u <-> 5
+</details>
+
+<details>
+  <summary><strong>:sunglasses: techList </strong> </summary> <br />
+  Receve a Array and a name, return a array of object with key tech and name, tech receve a item of params array, and name the name receve, order by tech.
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português: techList </strong></summary>
+  Recebe um array e um nome, retorna um array de obejtos com as chaves tech e nome, a chave tech recebe um item da lista de entrada e o nome recebe o nome, ordenado pela chave tech.
 </details>
 
 # :construction: README em construção ! :construction:
