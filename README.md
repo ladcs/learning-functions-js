@@ -148,8 +148,6 @@ This is my first program in JavaScript, In this project I learning how use opera
   Recebe uma string, essa string tem números e bebidas, para n bebidas retorna n copos de água, exemplo 1 cerveja return '1 copo de água' ou se for '3 cervejas, 1 vinho' retorna '4 copos de água'.
 </details>
 
-# :construction: README em construção ! :construction:
-
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
