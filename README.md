@@ -26,6 +26,16 @@ This is my first program in JavaScript, In this project I learning how use opera
   Retorna a área do triangulo, depende de dois parametros, base e altura.
 </details>
 
+<details>
+  <summary><strong>:sunglasses: splitSentence </strong></summary>
+  Get a string then split where find a space, then put in array. Used HoF split.
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: Português:splitSentence </strong></summary>
+  Recebe uma string, separa quando achar um espaço e armazena em um array. Usando a HoF split.
+</details>
+
 # :construction: README em construção ! :construction:
 
 <!-- Olá, Tryber!
