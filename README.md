@@ -86,7 +86,27 @@ This is my first program in JavaScript, In this project I learning how use opera
   Recebe um array, se o numero for múltiplo de 3 retorna 'fizz', se for múltiplo de 5 retorna 'buzz', se for múltiplo de 3 e de 5 retorna 'fizzBuzz' caso não seja múltiplo de 3 ou de 5 returna 'bug!' para todos os números no array.
 </details>
 
+<details>
+  <summary><strong>:sunglasses: encode and decode </strong> </summary> <br />
+  Receve a string to encode or to decode, the encode will change the letter to number and decode will change number to letter, this change is:
 
+  a <-> 1 \
+  e <-> 2 \
+  i <-> 3 \
+  o <-> 4 \
+  u <-> 5 \
+</details>
+
+<details>
+  <summary><strong>🤷🏽‍♀️:sunglasses: encode and decode </strong> </summary> <br />
+  Recebe uma string para encode ou para decode, o encode mudará letra por número e decode mudará número por letra, essa mudança é:
+
+  a <-> 1 \
+  e <-> 2 \
+  i <-> 3 \
+  o <-> 4 \
+  u <-> 5 \
+</details>
 
 # :construction: README em construção ! :construction:
 
